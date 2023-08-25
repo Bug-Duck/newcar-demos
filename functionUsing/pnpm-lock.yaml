@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   newcar:
-    specifier: ^0.3.4
-    version: 0.3.4
+    specifier: ^0.4.0
+    version: 0.4.0
 
 devDependencies:
   vite:
@@ -258,8 +258,8 @@ packages:
     hasBin: true
     dev: true
 
-  /newcar@0.3.4:
-    resolution: {integrity: sha512-u/pqnU8P7OtYqXYbx35lBRsNEq3Bl5C3zw/9dz1jFNPrUa4RXi3GqYtVXPT+NqWOyZYBdcWP8bCnoXiwMju6GA==}
+  /newcar@0.4.0:
+    resolution: {integrity: sha512-CeioyhkcHrZSMSHxLo+ZbuQdEZurznx2oJujBiCWGW7e2cFw6rMa4jVPl2LjvL93hSK4qCXw6AjtC7+9KCi05A==}
     dev: false
 
   /picocolors@1.0.0:

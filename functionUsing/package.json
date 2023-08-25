@@ -12,6 +12,6 @@
     "vite": "^4.4.5"
   },
   "dependencies": {
-    "newcar": "^0.3.4"
+    "newcar": "^0.4.0"
   }
 }
